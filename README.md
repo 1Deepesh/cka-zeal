@@ -1,5 +1,8 @@
 # Certified Kubernetes Administrator - KPLABS Course
 
+### Download the PPT notes here 
+https://github.com/1Deepesh/cka-zeal/blob/master/KPLABS-CKA-PPT-14-04-2024.pdf
+
 This Git repository contains all the code files used throughout the Certified Kubernetes Administrator 2023 course by Zeal Vora.
 
 https://www.udemy.com/course/certified-kubernetes-administrator/?referralCode=700DA06BF8A30E27AC7E
